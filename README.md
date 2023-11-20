@@ -8,7 +8,7 @@ Because I always forget the shortcuts, I created this repo. Since PhpStorm and V
 - **Format code** `shift` + `option` + `F`.
 - **Duplicate line up/down** `shift`+ `option` + `up` / `down`.
 - **Select word (multiple)** `command` + `D`. Press the key combination several times to select the same occurrence of the word again.
-- **Open terminal** `shift` + `option` + `´` (backtick)
+- **Open terminal** `shift` + `control` + `´` (backtick)
 - **Multi cursor selection** `option`+ `click`
 ## Terminal
 - _comming soon_
